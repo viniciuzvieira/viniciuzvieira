@@ -8,7 +8,7 @@ Desenvolvedor sênior full stack em São Paulo. Software, integrações e IA ori
 - **Dados e cloud:** SQL Server, PostgreSQL, Oracle, Firebase, Cosmos DB e Azure.
 - **IA no desenvolvimento:** Codex e SDD (Spec-Driven Development).
 
-[Portfólio ao vivo](https://viniciuzvieira.github.io/viniciuzvieira/) · [LinkedIn](https://www.linkedin.com/in/viniciuzvieira/) · [Currículo em PDF](dist/docs/Vinicius_Silva_CV.pdf) · [E-mail](mailto:vinicius.silva@zcore.com.br)
+[Portfólio ao vivo](https://viniciuzvieira.github.io/) · [LinkedIn](https://www.linkedin.com/in/viniciuzvieira/) · [Currículo em PDF](dist/docs/Vinicius_Silva_CV.pdf) · [E-mail](mailto:vinicius.silva@zcore.com.br)
 
 ## Portfólio
 
@@ -34,7 +34,7 @@ Abra `http://localhost:4173`.
 
 ## Publicação no GitHub Pages
 
-O workflow `.github/workflows/pages.yml` publica a pasta `dist` a cada alteração na branch `main`. O GitHub Pages está configurado para usar **GitHub Actions**. Acesse o [portfólio publicado](https://viniciuzvieira.github.io/viniciuzvieira/).
+O workflow `.github/workflows/pages.yml` publica a pasta `dist` a cada alteração na branch `main`. O GitHub Pages está configurado para usar **GitHub Actions**. Acesse o [portfólio publicado](https://viniciuzvieira.github.io/).
 
 ## Atualizar conteúdo
 
